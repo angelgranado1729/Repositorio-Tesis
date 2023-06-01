@@ -1,4 +1,4 @@
 # Repositorio-Tesis
-Algunas cosas relacionadas con mi tesis de pregrado. Analisis Funcional, Teoria de Conjunto, Teoria de la Medida y Topología General.
+"Este repositorio contiene una variedad de documentos relacionados con mi Tesis de Grado titulada "Filtros Medibles sobre N", así como avances de mi Trabajo de Grado. Estos documentos exploran resultados clásicos en áreas como Teoría de Conjuntos, Análisis Funcional, Topología, Teoría de Filtros sobre N y Teoría de la Medida, que han sido fundamentales para el desarrollo de mi investigación. El objetivo de este repositorio es compartir y difundir los conocimientos adquiridos durante mi estudio, con la esperanza de que sean de utilidad para aquellos interesados en estos campos de estudio."
 
-**Este repositorio está desactualizado!!!**
+**ACTUALMENTE, ESTE REPOSITORIO ESTÁ DESACTUALIZADO!!!**
